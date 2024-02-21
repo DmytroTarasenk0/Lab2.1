@@ -12,3 +12,4 @@ D:\Projects_VS\Lab2.1\obj\Debug\net8.0\refint\Lab2.1.dll
 D:\Projects_VS\Lab2.1\obj\Debug\net8.0\Lab2.1.pdb
 D:\Projects_VS\Lab2.1\obj\Debug\net8.0\Lab2.1.genruntimeconfig.cache
 D:\Projects_VS\Lab2.1\obj\Debug\net8.0\ref\Lab2.1.dll
+D:\Projects_VS\Lab2.1\obj\Debug\net8.0\Lab2.1.sourcelink.json
